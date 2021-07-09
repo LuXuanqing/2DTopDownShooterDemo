@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 4104517411
+    locked: 0
+  - name: Character
+    uniqueID: 3214732061
+    locked: 0
+  - name: Weapon
+    uniqueID: 2523998509
+    locked: 0
